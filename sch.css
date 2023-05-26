@@ -34,12 +34,13 @@ ul{
 .menu1 li{
     list-style: none ;
     width: 160px;
-    height: 50px;
+    /* height: 50px; */
     background-color:dodgerblue;
     margin-left: 5px;
     text-align: center;
     float: left;
     line-height: 50px;
+
     
 
 
