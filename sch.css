@@ -1,0 +1,357 @@
+
+body{
+    /* background-color: black; */
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: auto;
+   
+    
+}
+
+
+.my_menu{
+    position: absolute;
+    background-color: dodgerblue;
+    width: 100%;
+    height: auto;
+    
+    
+}
+/* .menu1 {
+    position: fixed;
+} */
+.menu1{
+    /* position: fixed; */
+    background-color: dodgerblue ;
+    padding-right: 14px;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+} 
+.menu1 li{
+    list-style: none ;
+    width: 160px;
+    height: 50px;
+    background-color:dodgerblue;
+    margin-left: 5px;
+    text-align: center;
+    float: left;
+    line-height: 50px;
+    
+
+
+}
+.menu1 li a:hover{
+    color: red;
+}
+
+.menu1 li:hover {
+    background-color: black;
+}
+.menu1 li a {
+    color: white;
+    display: block;
+    text-decoration: none;
+   
+}
+.logo{
+    width: 75px;
+}
+.logo_li:hover{
+    background-color: dodgerblue !important;
+}
+.logo_li a:hover{
+    color: white !important;
+}
+.logo_li a {
+    font-size: 20px;
+    background-color: orange;
+   
+}
+.menu1 ul li{
+    margin: 0px;
+
+
+}
+.menu1 ul{
+    display: none;
+}
+
+.menu1 li:hover ul{
+    display: block;
+}
+/* banner */
+.div2 img{
+    width: 100%;
+
+    
+
+    
+}
+/* section1 */
+/* why choes use */
+#Why_Choose_Us{
+    width: 100%;
+    
+}
+#Why_Choose_Us{
+    width: 300px;
+    margin: 0 auto;
+   color: red;
+    font-size: 25px;
+    border-bottom: 3px solid red;
+    text-align: center;
+
+    
+}
+.div_section1{
+    width: 20%;
+    height: 300px;
+    margin: 22px;
+
+    float: left;
+
+}
+.icon{
+    width: 80px;
+    height: 80px;
+    border: 1px solid grey;
+    margin:0px auto;
+    line-height:80px;
+    font-size: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 50px;
+    transition-duration: 0.3s;
+    text-align: center;
+    
+}
+.icon:hover{
+    font-size: 20px;
+    color: orange;
+    background-color:black ;
+}
+h2 , p{
+    text-align: center;
+}
+/* section2     */
+#section2 h1{
+    width: 300px;
+    margin: 0 auto;
+   color: red;
+    font-size: 30px;
+    border-bottom: 3px solid red;
+    text-align: center;
+    
+}
+.divsection2{
+    width: 30%;
+    height: 300px;
+    margin: 10px;
+    float: left;
+    }
+
+.divsection2 img{
+    width: 100%;
+
+}
+.tool{
+    width: 300px;
+    text-align: center !important;
+    /* background-color: green; */
+    margin:0px auto;
+    color: red;
+    border-bottom: 3px solid red;
+    font-size: 25px;
+    margin-top:380px ;
+
+
+    
+}
+section .our-tutr p{
+    padding: 0px 45px;
+    /* margin: ; */
+}
+/* .sir{
+    width: 80px;
+    height: 80px;
+    border: 1px solid grey;
+    margin:0px auto;
+    line-height:80px;
+    font-size: 40px;
+    background-color: red;
+    color: white;
+    border-radius: 35px;
+    transition-duration: 0.3s;
+    text-align: center;
+    
+} */
+.sir img{
+    width: 200px;
+    border-radius: 100px;
+    margin: 40px;
+    /* background-color: black; */
+}
+.sir1{
+    position: absolute;
+    
+     /* background-color: black;  */
+    width: 100%;
+    height: auto;
+    margin: 0px; 
+    padding: 0px;
+    
+    
+}
+.sir{
+    float: left;
+    margin: 0px;
+    padding: 20px;
+    
+    
+    
+}
+.sir h3{
+    margin-left: 90px;
+    margin-bottom: 90px;
+  
+}
+.sir h3 a{
+   text-decoration: none;
+   font-size: 30px;
+   background-color: grey;    
+   color: red;
+}
+section div .our-tutr{
+    border: 2px solid grey;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer{
+    position: absolute;
+    /* padding: 0px;
+    margin:0px; */
+    width: 100%;
+    height:350px;
+    background-color: black;
+}
+.footer_div{
+    width: 20%;
+    height: 120px;
+    margin: 22px;
+
+    float: left;
+}
+.footer_div h1{
+     text-align: center;
+     color:red;
+
+    
+    
+}
+.footer_div p{
+     color:white;
+     
+
+
+
+}
+
+.footer_div button{
+    background-color:red ;
+    color:white;
+    font-size:12px;
+
+}
+.footer_div ul  li{
+    list-style: none;
+}
+.footer_div ul li a{
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    margin-left:60px;
+}
+.footer_div p{
+    margin-left:30px;
+}
+.social{
+    color:white;
+    margin-left:35px;
+
+}
+.under{
+    display:inline-block;
+    width:100%;
+    height:30px;
+    
+
+}
+.footer1{
+    float:left;
+    width:50%;
+    
+}
+.footer1 p{
+    margin-top: 120px;
+    color:black;
+    background-color:white;
+    width:100%;
+    height:65px;
+    /* margin-left:30px; */
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
